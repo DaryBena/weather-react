@@ -11,7 +11,7 @@ root.render(
     <Weather />
     <small>
       <a
-        href="https://github.com/DaryBena/vanilla-weather-app"
+        href="https://github.com/DaryBena/weather-react"
         target="_blank"
         rel="noreferrer"
       >
